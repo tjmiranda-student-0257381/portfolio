@@ -31,7 +31,7 @@ h1 {
 h2 {
     width: 100%;
     font-size: 140%;
-    border-bottom: 3px solid #111217;
+    
 }
 
 ul {
@@ -45,4 +45,12 @@ footer {
     color: #ada9a9;
     padding: 20px;
     text-align: center;
+}
+
+.biopic {
+    float: right;
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+   
 }
