@@ -8,10 +8,10 @@
 }
 
 body {
-    background-color: #979090;
+    width: 100%;
+    background-color: #d4cbcb;
     font-family: sans-serif;
     padding: 1em;
-    max-width: 600px;
 }
 
 a {
@@ -29,11 +29,13 @@ h1 {
 }
 
 h2 {
+    width: 100%;
     font-size: 140%;
     border-bottom: 3px solid #111217;
 }
 
 ul {
+    padding-left: 50px;
     list-style-type: square;
 }
 
